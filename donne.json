@@ -19,42 +19,82 @@
     "debutChrono":1990,
     "finChrono":2019,
     "data":[
-        [{
+        [
+            {
                 "couleur": "red",
-                "value": 100,
+                "value": 300,
                 "name": "France"
             },
             {
                 "couleur": "blue",
-                "value": 80,
+                "value": 280,
                 "name": "Japon"
             },
             {
+                "couleur": "pink",
+                "value": 200,
+                "name": "Espagne"
+            },
+            {
+                "couleur": "black",
+                "value": 170,
+                "name": "Italie"
+            },
+            {
+                "couleur": "orange",
+                "value": 160,
+                "name": "Norvège"
+            },
+            {
+                "couleur": "peru",
+                "value": 160,
+                "name": "Allemagne"
+            },
+            {
                 "couleur": "green",
-                "value": 50,
+                "value": 150,
                 "name": "Chine"
             },
             {
                 "couleur": "yellow",
-                "value": 10,
+                "value": 90,
                 "name": "USA"
             }
         ],
         [
-
             {
                 "couleur": "red",
-                "value": 210,
+                "value": 410,
                 "name": "France"
             },
             {
                 "couleur": "yellow",
-                "value": 150,
+                "value": 350,
                 "name": "USA"
             },
             {
+                "couleur": "pink",
+                "value": 300,
+                "name": "Espagne"
+            },
+            {
+                "couleur": "black",
+                "value": 200,
+                "name": "Italie"
+            },
+            {
+                "couleur": "orange",
+                "value": 190,
+                "name": "Norvège"
+            },
+            {
+                "couleur": "peru",
+                "value": 180,
+                "name": "Allemagne"
+            },
+            {
                 "couleur": "green",
-                "value": 100,
+                "value": 110,
                 "name": "Chine"
             },
             {
@@ -63,7 +103,28 @@
                 "name": "Japon"
             }
         ],
-        [{
+        [
+            {
+            "couleur": "pink",
+            "value": 200,
+            "name": "Espagne"
+            },
+            {
+                "couleur": "black",
+                "value": 170,
+                "name": "Italie"
+            },
+            {
+                "couleur": "orange",
+                "value": 160,
+                "name": "Norvège"
+            },
+            {
+                "couleur": "peru",
+                "value": 160,
+                "name": "Allemagne"
+            },
+            {
                 "couleur": "green",
                 "value": 100,
                 "name": "Chine"
@@ -85,7 +146,8 @@
                 "name": "Japon"
             }
         ],
-        [{
+        [
+            {
                 "couleur": "blue",
                 "value": 500,
                 "name": "Japon"
@@ -96,8 +158,28 @@
                 "name": "USA"
             },
             {
+                "couleur": "pink",
+                "value": 400,
+                "name": "Espagne"
+            },
+            {
+                "couleur": "black",
+                "value": 370,
+                "name": "Italie"
+            },
+            {
+                "couleur": "orange",
+                "value": 260,
+                "name": "Norvège"
+            },
+            {
+                "couleur": "peru",
+                "value": 160,
+                "name": "Allemagne"
+            },
+            {
                 "couleur": "red",
-                "value": 200,
+                "value": 150,
                 "name": "France"
             },
             {
@@ -106,15 +188,36 @@
                 "name": "Chine"
             }
         ],
-        [{
+        [
+            {
                 "couleur": "blue",
-                "value": 550,
+                "value": 850,
                 "name": "Japon"
             },
             {
                 "couleur": "yellow",
-                "value": 450,
+                "value": 650,
                 "name": "USA"
+            },
+            {
+                "couleur": "pink",
+                "value": 600,
+                "name": "Espagne"
+            },
+            {
+                "couleur": "black",
+                "value": 570,
+                "name": "Italie"
+            },
+            {
+                "couleur": "orange",
+                "value": 460,
+                "name": "Norvège"
+            },
+            {
+                "couleur": "peru",
+                "value": 360,
+                "name": "Allemagne"
             },
             {
                 "couleur": "red",
@@ -127,24 +230,45 @@
                 "name": "Chine"
             }
         ],
-        [{
+        [
+            {
                 "couleur": "blue",
-                "value": 900,
+                "value": 1900,
                 "name": "Japon"
             },
             {
                 "couleur": "yellow",
-                "value": 700,
+                "value": 1700,
                 "name": "USA"
             },
             {
                 "couleur": "red",
-                "value": 500,
+                "value": 1500,
                 "name": "France"
             },
             {
+                "couleur": "pink",
+                "value": 1200,
+                "name": "Espagne"
+            },
+            {
+                "couleur": "black",
+                "value": 1170,
+                "name": "Italie"
+            },
+            {
+                "couleur": "orange",
+                "value": 960,
+                "name": "Norvège"
+            },
+            {
+                "couleur": "peru",
+                "value": 860,
+                "name": "Allemagne"
+            },
+            {
                 "couleur": "green",
-                "value": 200,
+                "value": 700,
                 "name": "Chine"
             }
         ]
