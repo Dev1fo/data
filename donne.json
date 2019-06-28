@@ -271,6 +271,91 @@
                 "value": 700,
                 "name": "Chine"
             }
+        ],
+        [
+            {
+                "couleur": "blue",
+                "value": 2000,
+                "name": "Japon"
+            },
+            {
+                "couleur": "yellow",
+                "value": 1500,
+                "name": "USA"
+            },
+            {
+                "couleur": "red",
+                "value": 1300,
+                "name": "France"
+            },
+            {
+                "couleur": "pink",
+                "value": 1200,
+                "name": "Espagne"
+            },
+            {
+                "couleur": "black",
+                "value": 1100,
+                "name": "Italie"
+            },
+            {
+                "couleur": "orange",
+                "value": 1060,
+                "name": "Norvège"
+            },
+            {
+                "couleur": "peru",
+                "value": 1000,
+                "name": "Allemagne"
+            },
+            {
+                "couleur": "green",
+                "value": 900,
+                "name": "Chine"
+            }
+        ],
+        [
+            {
+                "couleur": "blue",
+                "value": 2500,
+                "name": "Japon"
+            },
+            {
+                "couleur": "yellow",
+                "value": 2000,
+                "name": "USA"
+            },
+            {
+                "couleur": "red",
+                "value": 1800,
+                "name": "France"
+            },
+            {
+                "couleur": "pink",
+                "value": 1600,
+                "name": "Espagne"
+            },
+            {
+                "couleur": "black",
+                "value": 1500,
+                "name": "Italie"
+            },
+            {
+                "couleur": "peru",
+                "value": 1400,
+                "name": "Allemagne"
+            },
+            {
+                "couleur": "orange",
+                "value": 1200,
+                "name": "Norvège"
+            },
+           
+            {
+                "couleur": "green",
+                "value": 990,
+                "name": "Chine"
+            }
         ]
     ],
     
