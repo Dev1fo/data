@@ -27,7 +27,7 @@
             },
             {
                 "couleur": "blue",
-                "value": 280,
+                "value": 300,
                 "name": "Japon"
             },
             {
@@ -36,7 +36,7 @@
                 "name": "Espagne"
             },
             {
-                "couleur": "black",
+                "couleur": "salmon",
                 "value": 170,
                 "name": "Italie"
             },
@@ -78,7 +78,7 @@
                 "name": "Espagne"
             },
             {
-                "couleur": "black",
+                "couleur": "salmon",
                 "value": 200,
                 "name": "Italie"
             },
@@ -110,7 +110,7 @@
             "name": "Espagne"
             },
             {
-                "couleur": "black",
+                "couleur": "salmon",
                 "value": 170,
                 "name": "Italie"
             },
@@ -163,7 +163,7 @@
                 "name": "Espagne"
             },
             {
-                "couleur": "black",
+                "couleur": "salmon",
                 "value": 370,
                 "name": "Italie"
             },
@@ -205,7 +205,7 @@
                 "name": "Espagne"
             },
             {
-                "couleur": "black",
+                "couleur": "salmon",
                 "value": 570,
                 "name": "Italie"
             },
@@ -252,7 +252,7 @@
                 "name": "Espagne"
             },
             {
-                "couleur": "black",
+                "couleur": "salmon",
                 "value": 1170,
                 "name": "Italie"
             },
@@ -294,7 +294,7 @@
                 "name": "Espagne"
             },
             {
-                "couleur": "black",
+                "couleur": "salmon",
                 "value": 1100,
                 "name": "Italie"
             },
@@ -336,7 +336,7 @@
                 "name": "Espagne"
             },
             {
-                "couleur": "black",
+                "couleur": "salmon",
                 "value": 1500,
                 "name": "Italie"
             },
