@@ -20,245 +20,29 @@
     "finChrono":2019,
     "data":[
         [
-            {
+            { 
                 "couleur": "red",
-                "value": 300,
+                "value": 2200,
                 "name": "France"
             },
             {
                 "couleur": "blue",
-                "value": 300,
-                "name": "Japon"
-            },
-            {
-                "couleur": "pink",
-                "value": 200,
-                "name": "Espagne"
-            },
-            {
-                "couleur": "salmon",
-                "value": 170,
-                "name": "Italie"
-            },
-            {
-                "couleur": "orange",
-                "value": 160,
-                "name": "Norvège"
-            },
-            {
-                "couleur": "peru",
-                "value": 160,
-                "name": "Allemagne"
-            },
-            {
-                "couleur": "aqua",
-                "value": 150,
-                "name": "Chine"
-            },
-            {
-                "couleur": "yellow",
-                "value": 90,
-                "name": "USA"
-            }
-        ],
-        [
-            {
-                "couleur": "red",
-                "value": 410,
-                "name": "France"
-            },
-            {
-                "couleur": "yellow",
-                "value": 350,
-                "name": "USA"
-            },
-            {
-                "couleur": "pink",
-                "value": 300,
-                "name": "Espagne"
-            },
-            {
-                "couleur": "salmon",
-                "value": 200,
-                "name": "Italie"
-            },
-            {
-                "couleur": "orange",
-                "value": 190,
-                "name": "Norvège"
-            },
-            {
-                "couleur": "peru",
-                "value": 180,
-                "name": "Allemagne"
-            },
-            {
-                "couleur": "aqua",
-                "value": 110,
-                "name": "Chine"
-            },
-            {
-                "couleur": "blue",
-                "value": 50,
-                "name": "Japon"
-            }
-        ],
-        [
-            {
-            "couleur": "pink",
-            "value": 200,
-            "name": "Espagne"
-            },
-            {
-                "couleur": "salmon",
-                "value": 170,
-                "name": "Italie"
-            },
-            {
-                "couleur": "orange",
-                "value": 160,
-                "name": "Norvège"
-            },
-            {
-                "couleur": "peru",
-                "value": 160,
-                "name": "Allemagne"
-            },
-            {
-                "couleur": "aqua",
-                "value": 100,
-                "name": "Chine"
-            },
-            {
-                "couleur": "yellow",
-                "value": 90,
-                "name": "USA"
-            },
-
-            {
-                "couleur": "red",
-                "value": 70,
-                "name": "France"
-            },
-            {
-                "couleur": "blue",
-                "value": 20,
-                "name": "Japon"
-            }
-        ],
-        [
-            {
-                "couleur": "blue",
-                "value": 500,
-                "name": "Japon"
-            },
-            {
-                "couleur": "yellow",
-                "value": 400,
-                "name": "USA"
-            },
-            {
-                "couleur": "pink",
-                "value": 400,
-                "name": "Espagne"
-            },
-            {
-                "couleur": "salmon",
-                "value": 370,
-                "name": "Italie"
-            },
-            {
-                "couleur": "orange",
-                "value": 260,
-                "name": "Norvège"
-            },
-            {
-                "couleur": "peru",
-                "value": 160,
-                "name": "Allemagne"
-            },
-            {
-                "couleur": "red",
-                "value": 150,
-                "name": "France"
-            },
-            {
-                "couleur": "aqua",
-                "value": 50,
-                "name": "Chine"
-            }
-        ],
-        [
-            {
-                "couleur": "blue",
-                "value": 850,
-                "name": "Japon"
-            },
-            {
-                "couleur": "yellow",
-                "value": 650,
-                "name": "USA"
-            },
-            {
-                "couleur": "pink",
-                "value": 600,
-                "name": "Espagne"
-            },
-            {
-                "couleur": "salmon",
-                "value": 570,
-                "name": "Italie"
-            },
-            {
-                "couleur": "orange",
-                "value": 460,
-                "name": "Norvège"
-            },
-            {
-                "couleur": "peru",
-                "value": 360,
-                "name": "Allemagne"
-            },
-            {
-                "couleur": "red",
-                "value": 250,
-                "name": "France"
-            },
-            {
-                "couleur": "aqua",
-                "value": 100,
-                "name": "Chine"
-            }
-        ],
-        [
-            {
-                "couleur": "blue",
-                "value": 1900,
-                "name": "Japon"
-            },
-            {
-                "couleur": "yellow",
-                "value": 1700,
-                "name": "USA"
-            },
-            {
-                "couleur": "red",
                 "value": 1500,
-                "name": "France"
+                "name": "Japon"
             },
             {
                 "couleur": "pink",
-                "value": 1200,
+                "value": 1400,
                 "name": "Espagne"
             },
             {
                 "couleur": "salmon",
-                "value": 1170,
+                "value": 1000,
                 "name": "Italie"
             },
             {
                 "couleur": "orange",
-                "value": 960,
+                "value": 900,
                 "name": "Norvège"
             },
             {
@@ -268,39 +52,125 @@
             },
             {
                 "couleur": "aqua",
-                "value": 700,
+                "value": 750,
                 "name": "Chine"
+            },
+            {
+                "couleur": "yellow",
+                "value": 500,
+                "name": "USA"
             }
         ],
         [
             {
-                "couleur": "blue",
-                "value": 2000,
-                "name": "Japon"
-            },
-            {
-                "couleur": "yellow",
-                "value": 1500,
-                "name": "USA"
-            },
-            {
                 "couleur": "red",
-                "value": 1300,
+                "value": 2400,
                 "name": "France"
             },
             {
+                "couleur": "yellow",
+                "value": 2300,
+                "name": "USA"
+            },
+            {
                 "couleur": "pink",
-                "value": 1200,
+                "value": 1000,
                 "name": "Espagne"
             },
             {
                 "couleur": "salmon",
-                "value": 1100,
+                "value": 900,
                 "name": "Italie"
             },
             {
                 "couleur": "orange",
-                "value": 1060,
+                "value": 890,
+                "name": "Norvège"
+            },
+            {
+                "couleur": "peru",
+                "value": 880,
+                "name": "Allemagne"
+            },
+            {
+                "couleur": "aqua",
+                "value": 710,
+                "name": "Chine"
+            },
+            {
+                "couleur": "blue",
+                "value": 650,
+                "name": "Japon"
+            }
+        ],
+        [  
+            {
+                "couleur": "red", 
+                "value": 1700,
+                "name": "France"
+            },
+            {
+                "couleur": "yellow",
+                "value": 1670,
+                "name": "USA"
+            },
+            {
+                "couleur": "salmon",
+                "value": 1600,
+                "name": "Italie"
+            },
+            {
+                "couleur": "pink",
+                "value": 1330,
+                "name": "Espagne"
+            },
+            {
+                "couleur": "orange",
+                "value": 1100,
+                "name": "Norvège"
+            },
+            {
+                "couleur": "peru",
+                "value": 900,
+                "name": "Allemagne"
+            },
+
+            {
+                "couleur": "aqua",
+                "value": 700,
+                "name": "Chine"
+            },
+            {
+                "couleur": "blue",
+                "value": 300,
+                "name": "Japon"
+            }
+        ],
+        [
+    
+            {
+                "couleur": "yellow",
+                "value": 2500,
+                "name": "USA"
+            },
+            {
+                "couleur": "red",
+                "value": 2200,
+                "name": "France"
+            },
+            {
+                "couleur": "salmon",
+                "value": 1400,
+                "name": "Italie"
+            },
+            {
+                "couleur": "pink",
+                "value": 1370,
+                "name": "Espagne"
+            },
+            {
+                "couleur": "orange",
+                "value": 1260,
                 "name": "Norvège"
             },
             {
@@ -309,30 +179,105 @@
                 "name": "Allemagne"
             },
             {
+                "couleur": "blue",
+                "value": 950,
+                "name": "Japon"
+            },
+            {
                 "couleur": "aqua",
-                "value": 900,
+                "value": 850,
+                "name": "Chine"
+            }
+        ],         
+        [
+            {
+                "couleur": "yellow",
+                "value": 1850,
+                "name": "USA"
+            },
+            {
+                "couleur": "salmon",
+                "value": 1650,
+                "name": "Italie"
+            },
+            {
+                "couleur": "red",
+                "value": 1600,
+                "name": "France"
+            },
+            {
+                "couleur": "pink",
+                "value": 1570,
+                "name": "Espagne"
+            },
+            {
+                "couleur": "orange",
+                "value": 1460,
+                "name": "Norvège"
+            },
+           {
+                "couleur": "peru",
+                "value": 1360,
+                "name": "Allemagne"
+            },
+            {
+                "couleur": "blue",
+                "value": 1250,
+                "name": "Japon"
+            },
+            {
+                "couleur": "aqua",
+                "value": 1100,
                 "name": "Chine"
             }
         ],
         [
             {
-                "couleur": "blue",
-                "value": 2500,
-                "name": "Japon"
+                "couleur": "pink",
+                "value": 1900,
+                "name": "Espagne"
             },
             {
-                "couleur": "yellow",
-                "value": 2000,
-                "name": "USA"
+                "couleur": "salmon",
+                "value": 1700,
+                "name": "Italie"
             },
             {
                 "couleur": "red",
-                "value": 1800,
+                "value": 1500,
                 "name": "France"
             },
             {
+                "couleur": "yellow",
+                "value": 1200,
+                "name": "USA"
+            },
+            {
+                "couleur": "orange",
+                "value": 1170,
+                "name": "Norvège"
+            },
+            {
+                "couleur": "peru",
+                "value": 960,
+                "name": "Allemagne"
+            },
+            {
+                "couleur": "aqua",
+                "value": 860,
+                "name": "Chine"
+            },
+            {
+                "couleur": "blue",
+                "value": 700,
+                "name": "Japon"
+            }
+        ],
+        [
+
+            {
                 "couleur": "pink",
-                "value": 1600,
+                "value": 2000,
                 "name": "Espagne"
             },
             {
@@ -341,20 +286,76 @@
                 "name": "Italie"
             },
             {
-                "couleur": "peru",
-                "value": 1400,
-                "name": "Allemagne"
+                "couleur": "red",
+                "value": 1300,
+                "name": "France"
+            },
+            {
+                "couleur": "yellow",
+                "value": 1200,
+                "name": "USA"
             },
             {
                 "couleur": "orange",
-                "value": 1200,
+                "value": 1100,
                 "name": "Norvège"
             },
-           
             {
                 "couleur": "aqua",
-                "value": 990,
+                "value": 1060,
                 "name": "Chine"
+            },
+            {
+                "couleur": "peru",
+                "value": 1000,
+                "name": "Allemagne"
+            },
+            {
+                "couleur": "blue",
+                "value": 900,
+                "name": "Japon"
+            }
+        ],
+        [
+            {
+                "couleur": "salmon",
+                "value": 2500,
+                "name": "Italie"
+            },
+            {
+                "couleur": "pink",
+                "value": 2000,
+                "name": "Espagne"
+            },
+            {
+                "couleur": "red",
+                "value": 1800,
+                "name": "France"
+            },
+            {
+                "couleur": "yellow",
+                "value": 1600,
+                "name": "USA"
+            },
+            {
+                "couleur": "aqua",
+                "value": 1500,
+                "name": "Chine"
+            },
+            {
+                "couleur": "orange",
+                "value": 1400,
+                "name": "Norvège"
+            },
+            {
+                "couleur": "peru",
+                "value": 1200,
+                "name": "Allemagne"
+            },
+            {
+                "couleur": "blue",
+                "value": 990,
+                "name": "Japon"
             }
         ]
     ],
